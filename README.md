@@ -1,4 +1,5 @@
 # Galaxian23
+![image](https://github.com/user-attachments/assets/3c27ad65-3978-402b-beb0-efbc15ce1fde)
 The project is a mobile version of a 2D shooter game by Namco called "Galaxian," which was released in 1979.
 The game will retain the iconic Galaxian space theme and color-coded enemy plane imagery, but will add new attack styles, abilities, and item elements to the game. 
 
