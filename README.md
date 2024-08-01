@@ -1,5 +1,4 @@
 # Galaxian23
-![image](https://github.com/user-attachments/assets/3c27ad65-3978-402b-beb0-efbc15ce1fde)
 The project is a mobile version of a 2D shooter game by Namco called "Galaxian," which was released in 1979.
 The game will retain the iconic Galaxian space theme and color-coded enemy plane imagery, but will add new attack styles, abilities, and item elements to the game. 
 
@@ -10,6 +9,8 @@ The game will retain the iconic Galaxian space theme and color-coded enemy plane
 - Acquiring Items
 
 ## Rule
+![image](https://github.com/user-attachments/assets/08832167-32ee-4fc1-9e6d-4ba4df188e0d)
+<br>
 - End Conditions
 	- Players have 3 lives
 	- Player loses lives when colliding with enemies or being attacked by enemies
