@@ -1,7 +1,7 @@
 # Galaxian23
-<p align="center"><img src="https://github.com/user-attachments/assets/56c65dcf-3779-4a91-9f42-dc3a28b6c1ed" width="300" height="500"/>
-<img src="https://github.com/user-attachments/assets/d7a71a07-6c11-47ea-92a6-3853343c1c5f" width="300" height="500"/>
-<img src="https://github.com/user-attachments/assets/f23048b7-a7c8-4576-b480-a23a4534d47b" width="300" height="500"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/56c65dcf-3779-4a91-9f42-dc3a28b6c1ed" width="200" height="350"/>
+<img src="https://github.com/user-attachments/assets/d7a71a07-6c11-47ea-92a6-3853343c1c5f" width="200" height="350"/>
+<img src="https://github.com/user-attachments/assets/f23048b7-a7c8-4576-b480-a23a4534d47b" width="200" height="350"/></p>
 The project is a mobile version of a 2D shooter game by Namco called "Galaxian," which was released in 1979.
 The game will retain the iconic Galaxian space theme and color-coded enemy plane imagery, but will add new attack styles, abilities, and item elements to the game. 
 
